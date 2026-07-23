@@ -4,13 +4,9 @@ I'm **kenichi-morihara**.
 
 ## Skills
 
-### Languages
+### Languages & Runtimes
 
-![Languages](https://skillicons.dev/icons?i=ts,js,py,ruby,html,css,bash)
-
-### Runtimes
-
-![Runtimes](https://skillicons.dev/icons?i=nodejs)
+![Languages & Runtimes](https://skillicons.dev/icons?i=ts,js,py,ruby,html,css,bash,nodejs)
 
 ### Libraries & Frameworks
 
@@ -26,7 +22,7 @@ I'm **kenichi-morihara**.
 
 ### Operating Systems
 
-![Operating Systems](https://skillicons.dev/icons?i=linux)
+![Operating Systems](https://skillicons.dev/icons?i=linux,windows)
 
 ### Cloud & DevOps
 
