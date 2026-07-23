@@ -6,7 +6,7 @@ I'm **kenichi-morihara**.
 
 ### Programming Languages
 
-![Programming Languages](https://skillicons.dev/icons?i=ts,js,py)
+![Programming Languages](https://skillicons.dev/icons?i=ts,js,py,html,css,bash)
 
 ### Library & Framework
 
@@ -14,15 +14,15 @@ I'm **kenichi-morihara**.
 
 ### Platforms
 
-![Platforms](https://skillicons.dev/icons?i=linux,docker)
+![Platforms](https://skillicons.dev/icons?i=linux,docker,aws)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=terraform)
+![Tools](https://skillicons.dev/icons?i=terraform,npm,yarn)
 
 ### Softwares
 
-![Softwares](https://skillicons.dev/icons?i=postgres)
+![Softwares](https://skillicons.dev/icons?i=postgres,snowflake)
 
 ### Applications
 
