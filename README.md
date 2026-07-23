@@ -4,7 +4,29 @@ I'm **kenichi-morihara**.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,vite,py,docker,postgres,terraform,linux&perline=5)](https://skillicons.dev)
+### Programming Languages
+
+![Programming Languages](https://skillicons.dev/icons?i=ts,js,py)
+
+### Library & Framework
+
+![Library & Framework](https://skillicons.dev/icons?i=react,nodejs,vite)
+
+### Platforms
+
+![Platforms](https://skillicons.dev/icons?i=linux,docker)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=terraform)
+
+### Softwares
+
+![Softwares](https://skillicons.dev/icons?i=postgres)
+
+### Applications
+
+![Applications](https://skillicons.dev/icons?i=github)
 
 ## GitHub Stats
 
