@@ -2,6 +2,22 @@
 
 I'm **kenichi-morihara**.
 
+インフラ → SaaS 開発 → データ / AI 寄りのプロダクト開発、と幅を広げてきたフルスタック寄りのエンジニアです。  
+AWS / GCP でのインフラ構築、TypeScript・React のフロント、Python を用いたデータ・AI 連携を得意としています。
+
+## Experience
+
+### 株式会社エフティー（2023年10月〜現在）
+- TypeScript / Python を中心としたデータ解析・社内プロダクト（Kraken 等）の開発・改善
+- Streamlit / Docker 等を用いた開発・運用補助
+
+### Baseconnect株式会社（2021年6月〜2023年4月）
+- Ruby on Rails / Elasticsearch / Neo4j による企業検索・営業支援機能の実装
+- Rails / TypeScript / React 環境での機能追加・バグ修正
+
+### 株式会社ゲオホールディングス（2020年2月〜2021年5月）
+- VMware / AWS を使ったハイブリッド環境のサーバ管理
+
 ## Skills
 
 ### Languages & Runtimes
@@ -25,7 +41,7 @@ I'm **kenichi-morihara**.
 
 ### Operating Systems
 
-![Operating Systems](https://skillicons.dev/icons?i=linux,windows)
+![Operating Systems](https://skillicons.dev/icons?i=linux,windows,apple)
 
 ### Cloud & DevOps
 
