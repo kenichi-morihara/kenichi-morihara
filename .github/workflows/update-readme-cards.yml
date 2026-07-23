@@ -26,7 +26,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true
+          # include_all_commits=true uses commit search with the PAT,
+          # which includes private repos the token can access.
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.README_STATS_TOKEN || github.token }}
 
