@@ -22,7 +22,10 @@ I'm **kenichi-morihara**.
 
 ### Softwares
 
-![Softwares](https://skillicons.dev/icons?i=postgres,snowflake)
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.snowflake.com/"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48" alt="Snowflake" /></a>
+</p>
 
 ### Applications
 
