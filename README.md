@@ -6,19 +6,19 @@ I'm **kenichi-morihara**.
 
 ### Programming Languages
 
-![Programming Languages](https://skillicons.dev/icons?i=ts,js,py,html,css,bash)
+![Programming Languages](https://skillicons.dev/icons?i=ts,js,py,html,css,bash,nodejs,ruby)
 
 ### Library & Framework
 
-![Library & Framework](https://skillicons.dev/icons?i=react,nodejs,vite)
+![Library & Framework](https://skillicons.dev/icons?i=react,rails,django)
 
 ### Platforms
 
-![Platforms](https://skillicons.dev/icons?i=linux,docker,aws)
+![Platforms](https://skillicons.dev/icons?i=linux,aws)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=terraform,npm,yarn)
+![Tools](https://skillicons.dev/icons?i=docker,git,vite,terraform,npm,yarn,githubactions,nginx&perline=4)
 
 ### Softwares
 
