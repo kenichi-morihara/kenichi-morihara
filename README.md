@@ -10,7 +10,10 @@ I'm **kenichi-morihara**.
 
 ### Libraries & Frameworks
 
-![Libraries & Frameworks](https://skillicons.dev/icons?i=react,rails,django)
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,rails,django" alt="React, Rails, Django" /></a>
+  <a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" alt="Streamlit" /></a>
+</p>
 
 ### Databases
 
@@ -30,7 +33,10 @@ I'm **kenichi-morihara**.
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,vite,npm,yarn,nginx)
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vite,npm,yarn,nginx,vscode" alt="Tools" /></a>
+  <a href="https://claude.ai/"><img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude Code" /></a>
+</p>
 
 ## GitHub Stats
 
