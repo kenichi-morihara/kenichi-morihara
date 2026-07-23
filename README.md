@@ -3,7 +3,7 @@
 I'm **kenichi-morihara**.
 
 インフラ → SaaS 開発 → データ / AI 寄りのプロダクト開発、と幅を広げてきたフルスタック寄りのエンジニアです。  
-AWS / GCP でのインフラ構築、TypeScript・React のフロント、Python を用いたデータ・AI 連携を得意としています。
+要件定義から設計・実装・インフラ構築・運用まで一気通貫で開発でき、AWS / GCP、TypeScript・React、Python によるデータ・AI 連携を得意としています。
 
 ## Experience
 
