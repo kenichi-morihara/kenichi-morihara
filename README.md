@@ -24,13 +24,17 @@ I'm **kenichi-morihara**.
   <a href="https://neo4j.com/"><img src="https://cdn.simpleicons.org/neo4j/008CC1" height="48" alt="Neo4j" /></a>
 </p>
 
+### Operating Systems
+
+![Operating Systems](https://skillicons.dev/icons?i=linux)
+
 ### Cloud & DevOps
 
-![Cloud & DevOps](https://skillicons.dev/icons?i=linux,aws,docker,terraform,githubactions,nginx)
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,docker,terraform,githubactions)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,github,vite,npm,yarn)
+![Tools](https://skillicons.dev/icons?i=git,github,vite,npm,yarn,nginx)
 
 ## GitHub Stats
 
